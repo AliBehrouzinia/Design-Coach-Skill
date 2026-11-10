@@ -31,6 +31,8 @@ So I built this skill with Claude. Now, when I bring a design problem, it asks m
 >
 > **Coach:** So it's about timely awareness of replies. *(Goals & constraints)* What must the system do, and what must it never do? For example, is a 5-minute delay acceptable?
 
+See [`examples/`](examples/) for a full walkthrough of designing a URL shortener with the coach.
+
 ## Install
 
 **Claude Code:** copy `guided-design-coach/SKILL.md` to `~/.claude/skills/guided-design-coach/SKILL.md` (or `.claude/skills/guided-design-coach/SKILL.md` inside a project).
